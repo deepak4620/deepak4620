@@ -1,109 +1,104 @@
-# 👋 Hi, I'm Deepak Tiwari  
-**Frontend Developer | React Specialist | UI Enthusiast**
+<h1 align="center">
+  <img src="https://github.com/user-attachments/assets/bb0c2b4c-6c7e-4a0a-9f9b-7d2a9a0a0b6f" alt="Deepak Tiwari Banner" width="100%">
+</h1>
+
+<h1 align="center">👋 Hi, I'm Deepak Tiwari</h1>
+<h3 align="center">Frontend Developer | React Enthusiast | Code Craftsman</h3>
+
+<p align="center">
+  <a href="mailto:deepakt6973@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deepakt6973@gmail.com-teal?style=flat&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://my-portfolio-theta-orcin-15.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-teal?style=flat&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/deepak4620/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-teal?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend Developer** with a Bachelor's in Computer Applications, specializing in creating responsive, user-centric web applications. I thrive on transforming complex problems into elegant, intuitive solutions using modern technologies.
+I'm a passionate **Frontend Developer** who loves building beautiful, functional web applications. I enjoy turning complex problems into simple, intuitive solutions.
 
-- 🌱 Currently advancing my expertise in **React Ecosystem**, **TypeScript**, and **Next.js**
-- 💼 Open to collaboration on innovative projects and open-source contributions
-- 📍 Based in India | Open to remote opportunities
-- 🎯 Focused on writing clean, maintainable code and exceptional user experiences
-
----
-
-## 🛠️ Technical Stack
-
-### **Frontend Development**
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Next.js
-- **Styling:** Tailwind CSS, Bootstrap, Material-UI, Shadcn
-- **State Management:** Context API, Redux Toolkit
-- **Animation:** Framer Motion, CSS Animations
-
-### **Development Tools**
-- **Version Control:** Git, GitHub
-- **Package Managers:** npm, yarn
-- **IDEs:** VS Code
-- **Deployment:** Vercel, Netlify
-- **Design:** Figma, Adobe XD
+- 🌱 Currently learning: **Advanced React, TypeScript, Next.js**
+- 💼 Open to: **Collaborations & Job Opportunities**
+- 📫 Reach me: **deepakt6973@gmail.com**
+- 🎯 Focus: **Clean Code & Great UX**
 
 ---
 
-## 💻 Featured Projects
+## 🛠️ Tech Stack
 
-### 🎬 **[MovieApp](https://github.com/deepak4620/MovieApp)**
-A comprehensive movie discovery platform built with React and integrated with TMDB API
-- **Features:** Advanced search, genre filtering, rating system, responsive design
-- **Tech Stack:** React, Context API, Tailwind CSS, RESTful APIs
+**Frontend:**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### ✅ **[TodoApp](https://github.com/deepak4620/TodoApp)**
-Feature-rich task management application with persistent local storage
-- **Features:** Priority management, due dates, task categorization
-- **Tech Stack:** JavaScript, Local Storage API, Modern CSS
+**Styling:**  
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🔧 **[FakeData1](https://github.com/deepak4620/FakeData1)**
-TypeScript-based utility for handling and manipulating mock data operations
-- **Features:** Type-safe data operations, modular architecture
-- **Tech Stack:** TypeScript, Modern Build Tools
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## 💻 Projects
+
+### 🔧AllmostDate
+TypeScript utility for mock data operations
+- **Tech:** TypeScript,React.js,Next.js, Modern Tools
+- **[View Project](https://all-most-date.vercel.app/)**
+
+### 🎬 MovieApp
+Movie discovery app with React & TMDB API
+- **Tech:** React, Tailwind CSS, API Integration
+- **[View Project](https://github.com/deepak4620/MovieApp)**
+
+### ✅ TodoApp
+Task management app with local storage
+- **Tech:** JavaScript, CSS, Local Storage
+- **[View Project](https://github.com/deepak4620/TodoApp)**
+
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak4620&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak4620&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Deepak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deepak4620&show_icons=true&theme=radical&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepak4620&theme=radical&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deepak4620&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
----
-
-## 🌟 What I Bring
-
-- **Clean Code Philosophy:** Emphasis on readable, maintainable, and scalable code
-- **Responsive Design:** Mobile-first approach with cross-browser compatibility
-- **Performance Focus:** Optimized loading times and smooth user interactions
-- **Modern Practices:** Implementation of latest web standards and best practices
 
 ---
 
 ## 📫 Let's Connect
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-deepakt6973@gmail.com-teal?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakt6973@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-teal?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-theta-orcin-15.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-teal?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-
-</div>
-
----
-
-## 📋 Currently Learning & Exploring
-
-- **Advanced React Patterns** and **Performance Optimization**
-- **Server-Side Rendering** with Next.js
-- **Testing Strategies** with Jest and React Testing Library
-- **Backend Integration** and **API Design**
+<p align="center">
+  <a href="mailto:deepakt6973@gmail.com">
+    <img src="https://img.shields.io/badge/Email-deepakt6973@gmail.com-teal?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://my-portfolio-theta-orcin-15.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-teal?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-### 🚀 *Building the future, one component at a time*
+### 💡 *Turning ideas into interactive reality*
 
-**Open to new opportunities and collaborations**
+**Always learning, always building 🚀**
 
 </div>
-
----
-
-*This profile is continuously updated as I grow and learn new technologies.*  
-*Last updated: March 2024*
