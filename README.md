@@ -1,4 +1,5 @@
-![Deepak Tiwari – Frontend Developer](./ChatGPT%20Image%20Oct%2013%2C%202025%2C%2008_21_24%20PM.png)
+![Deepak Tiwari – Frontend Developer](./Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
+
 
 
 # 👋 Hi, I’m Deepak Tiwari  
