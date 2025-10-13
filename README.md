@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/bb0c2b4c-6c7e-4a0a-9f9b-7d2a9a0a0b6f" alt="Deepak Tiwari Banner" width="100%">
+  <img src="Teal and Black Modern Programmer New LinkedIn Banner.png" alt="Deepak Tiwari Banner" width="100%">
 </h1>
 
 <h1 align="center">👋 Hi, I'm Deepak Tiwari</h1>
