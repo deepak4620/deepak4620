@@ -1,3 +1,32 @@
+<svg width="1280" height="400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#003f3f;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Rectangle -->
+  <rect width="100%" height="100%" fill="url(#bgGrad)"/>
+
+  <!-- Accent Graphic Element (Left Side) -->
+  <path d="M 0,150 Q 300,100 400,250 T 800,150 L 800,400 L 0,400 Z" fill="#0D9488" fill-opacity="0.3"/>
+
+  <!-- Name -->
+  <text x="80" y="160" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">DEEPAK TIWARI</text>
+
+  <!-- Title -->
+  <text x="80" y="210" font-family="Arial, sans-serif" font-size="32" fill="#0D9488">Programmer</text>
+
+  <!-- Contact Info -->
+  <text x="80" y="280" font-family="Arial, sans-serif" font-size="18" fill="#cccccc">deepakt6973@gmail.com</text>
+
+  <!-- Decorative Code Brackets (Right Side) -->
+  <text x="1150" y="200" font-family="monospace" font-size="80" font-weight="bold" fill="#0D9488" fill-opacity="0.2">{ }</text>
+
+</svg>
+
+
 ![Deepak Tiwari – Frontend Developer](./Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 
 
@@ -5,7 +34,7 @@
 # 👋 Hi, I’m Deepak Tiwari  
 **BCA Graduate | Frontend Developer | Learner & Builder**
 
-[![GitHub followers](https://img.shields.io/github/followers/deepak4620?label=Follow&style=social)](https://github.com/deepak4620)
+
 
 ---
 
