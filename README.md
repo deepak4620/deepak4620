@@ -1,4 +1,4 @@
-![Deepak Tiwari – Frontend Developer](./ChatGPT Image Oct 13, 2025, 08_21_24 PM.png)
+![Deepak Tiwari – Frontend Developer](./ChatGPT%20Image%20Oct%2013%2C%202025%2C%2008_21_24%20PM.png)
 
 
 # 👋 Hi, I’m Deepak Tiwari  
