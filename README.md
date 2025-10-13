@@ -11,19 +11,6 @@
 
   <!-- Accent Graphic Element (Left Side) -->
   <path d="M 0,150 Q 300,100 400,250 T 800,150 L 800,400 L 0,400 Z" fill="#0D9488" fill-opacity="0.3"/>
-
-  <!-- Name -->
-  <text x="80" y="160" font-family="Arial, sans-serif" font-size="52" font-weight="bold" fill="#ffffff">DEEPAK TIWARI</text>
-
-  <!-- Title -->
-  <text x="80" y="210" font-family="Arial, sans-serif" font-size="32" fill="#0D9488">Programmer</text>
-
-  <!-- Contact Info -->
-  <text x="80" y="280" font-family="Arial, sans-serif" font-size="18" fill="#cccccc">deepakt6973@gmail.com</text>
-
-  <!-- Decorative Code Brackets (Right Side) -->
-  <text x="1150" y="200" font-family="monospace" font-size="80" font-weight="bold" fill="#0D9488" fill-opacity="0.2">{ }</text>
-
 </svg>
 
 
