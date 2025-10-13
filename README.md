@@ -1,4 +1,4 @@
-[Deepak Tiwari – Frontend Developer](./A_digital_graphic_banner_in_landscape_orientation_.png)
+[Deepak Tiwari – Frontend Developer](./Teal and Black Modern Programmer New LinkedIn Banner.png)
 
 # 👋 Hi, I’m Deepak Tiwari  
 **BCA Graduate | Frontend Developer | Learner & Builder**
