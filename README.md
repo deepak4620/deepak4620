@@ -1,4 +1,4 @@
-![Deepak Tiwari – Frontend Developer](./A_digital_graphic_banner_in_landscape_orientation_.png)
+![Deepak Tiwari – Frontend Developer](./ChatGPT Image Oct 13, 2025, 08_21_24 PM.png)
 
 
 # 👋 Hi, I’m Deepak Tiwari  
