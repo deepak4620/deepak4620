@@ -75,25 +75,6 @@ Frontend Developer specializing in React, Next.js, and TypeScript. Passionate ab
 
 ---
 
-## Featured Projects
-
-### AllmostDate
-Modern dating web application with user profiles and real-time messaging
-- **Tech:** React.js, Next.js, TypeScript, Tailwind CSS
-- **Live:** [all-most-date.vercel.app](https://all-most-date.vercel.app/)
-
-### Movie App
-Dynamic movie browsing application with search and filtering
-- **Tech:** React.js, TMDB API, Tailwind CSS
-- **Live:** [movie-app-henna-ten-42.vercel.app](https://movie-app-henna-ten-42.vercel.app)
-
-### Todo App
-Task management application with intuitive interface
-- **Tech:** React.js, Next.js, Tailwind CSS
-- **Live:** [todo-app-blond-five-77.vercel.app](https://todo-app-blond-five-77.vercel.app/)
-
----
-
 ## GitHub Analytics
 
 <div align="center">
